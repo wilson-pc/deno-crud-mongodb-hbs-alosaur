@@ -1,4 +1,4 @@
-# deno-crud-alosaur-dso-spa-vuejs
+# deno-crud-mongodb-hbs-alosaur
 
 ## Herramientas
 
